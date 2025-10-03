@@ -11,6 +11,7 @@ This document outlines LEAPP modules parsing SQLite databases using the new `get
 | AMDSQLiteDB |
 | Airbnb |
 | BeReal |
+| ConnectedDeviceInformation |
 | LinkedIn |
 | Ph11KwrdsCapsTitlesDescripsBasicAssetData |
 | Ph15PeopleandDetFacesNAD |
@@ -51,6 +52,7 @@ This document outlines LEAPP modules parsing SQLite databases using the new `get
 | allTrails |
 | appleWalletCards |
 | appleWalletTransactions |
+| biomeSync |
 | booking |
 | callHistory |
 | cashAppB |
@@ -80,7 +82,6 @@ This document outlines LEAPP modules parsing SQLite databases using the new `get
 <!-- READONLY_START -->
 | Source Modules |
 |----------------|
-| ConnectedDeviceInformation |
 | DataUsage |
 | FitnessWorkoutsLocationData |
 | Oops |
@@ -93,7 +94,6 @@ This document outlines LEAPP modules parsing SQLite databases using the new `get
 | appleWalletPasses |
 | applicationStateDB |
 | atxDatastore |
-| biomeSync |
 | bluetoothOther |
 | bluetoothPairedLE |
 | bumble |
