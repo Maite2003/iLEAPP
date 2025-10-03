@@ -81,7 +81,7 @@ def get_appItunesmeta(context):
         'Sideloaded?', 
         'Variant ID', 
         'Source File Location')
-    return data_headers, data_list, ''
+    return data_headers, data_list, 'see Source File Location for more info'
         
 
 
